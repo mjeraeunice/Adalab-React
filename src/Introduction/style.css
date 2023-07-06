@@ -1,0 +1,21 @@
+.heading{
+    color: rgb(216, 114, 114);
+    margin-left:10px;  
+}
+p{margin-left: 20px;}
+body{background-image: url(/public/Images/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.listing{list-style-type: none;padding-left: 1.5em;}
+.horiz{  border: none;
+    border-top: 3px solid #ccc;
+    margin: 16px 0;
+width: 45%;
+margin-top: 30px;
+}
+.heading2{color: rgb(211, 117, 132);margin-left: 10px;}
+.uses{margin-left: 10px;color: aliceblue;}
+#list2{list-style-type: none;margin-left: -20px;}
